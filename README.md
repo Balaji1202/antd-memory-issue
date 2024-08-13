@@ -1,9 +1,11 @@
+Clone from https://github.com/11bit/antd-bug-reproduction
+
 # Reproduction of a crash when ant-design's Table component is used with sufficiently complicated types
 
 ## Steps to reproduce
 1. Clone this repository
-2. Run `pnpm install` (other package managers should work too)
-3. Run `pnpm run tsc`
+2. Run `yarn install` (other package managers should work too)
+3. Run `yarn run tsc`
 
 ## Notes:
 1. See `src/App.tsx` for the code that causes the crash
