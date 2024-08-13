@@ -24,17 +24,17 @@ const columns: ColumnsType<Repository> = [
   {
     title: 'Address',
     dataIndex: 'address',
-    key: 'address',
+    key: 'address1',
   },
   {
     title: 'Address',
     dataIndex: 'address',
-    key: 'address',
+    key: 'address2',
   },
   {
     title: 'Address',
     dataIndex: 'address',
-    key: 'address',
+    key: 'address3',
   },
 
 ];
